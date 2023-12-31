@@ -85,13 +85,20 @@ endmodule
 ### RTL LOGIC DOWN COUNTER  
 ![image](https://github.com/KAVIYADHARANI/Exp-7-Synchornous-counters-/assets/144870680/2918cd37-bda3-4c41-832f-26e398dad463)
 
+
+
 ### TRUTH TABLE 
 ![image](https://github.com/KAVIYADHARANI/Exp-7-Synchornous-counters-/assets/144870680/fd524142-6a57-4161-ab08-c65bb18d513a)
+
+
 
 ### TIMING DIGRAMS FOR DOWN COUNTER  
 ![image](https://github.com/KAVIYADHARANI/Exp-7-Synchornous-counters-/assets/144870680/e0cf8708-ef04-4bf0-9ae9-4cc4d2523147)
 
+
+
 ### RESULTS 
+
 Thus synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
 
 
